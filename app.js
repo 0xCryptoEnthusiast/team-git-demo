@@ -8,5 +8,10 @@ function addnavbar(){
     console.log("Navbar functionality added.");
 }
 
+function addButton(){
+    console.log("Button functionality added.");
+}
+
 addLogin()
 addnavbar()
+addButton()
