@@ -1,7 +1,7 @@
 console.log("Hello, welcome");
 
 function addLogin(){
-    console.log("Login functionality added.");
+    console.log("Login functionality added.");gi
 }
 
 function addnavbar(){
