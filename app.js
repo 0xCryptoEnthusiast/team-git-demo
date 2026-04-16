@@ -1,4 +1,4 @@
-console.log("Hello, welcome to the team Git");
+console.log("Hello, welcome");
 
 function addLogin(){
     console.log("Login functionality added.");gi
